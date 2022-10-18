@@ -1,3 +1,5 @@
+***Sphinx of black quartz, judge my vow.***
+
 <!-- ###	Hi there 👋 -->
 
 <!--
@@ -18,6 +20,9 @@ Here are some ideas to get you started:
  -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Stat](https://github-readme-stats.vercel.app/api?username=heptazhou&count_private=true&show_icons=true&theme=react&hide_border=true&hide_title=false&hide_rank=true&include_all_commits=false&disable_animations=true)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=heptazhou&count_private=true&langs_count=10&layout=compact&theme=react&hide_border=true&exclude_repo=a2c,glibc,Iosevnya,MmaActMan,nodered-dev,ProxifierKeygen,Saranya)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?custom_title=Heptazhou%20GitHub%20Stats&username=heptazhou&card_width=359&count_private=true&disable_animations=true&hide_border=true&theme=react&hide_rank=true&hide_title=false&include_all_commits=false&show_icons=true)
+　<!--  -->
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs?langs_count=10&layout=compact&username=heptazhou&card_width=359&count_private=true&disable_animations=true&hide_border=true&theme=react&hide=text&exclude_repo=a2c,glibc,Icecat,img-cmp,Iosevnya,Librewolf-Windows,MmaActMan,ProxifierKeygen,Saranya)
+
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 
