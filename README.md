@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?custom_title=Heptazhou%20GitHub%20Stats&username=heptazhou&card_width=359&count_private=true&disable_animations=true&hide_border=true&theme=react&hide_rank=true&hide_title=false&include_all_commits=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?custom_title=Heptazhou%20GitHub%20Stats&username=heptazhou&card_width=359&count_private=true&disable_animations=true&hide_border=true&theme=react&hide_rank=true&hide_title=false&include_all_commits=true&show_icons=true)
 　<!--  -->
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs?langs_count=10&layout=compact&username=heptazhou&card_width=359&count_private=true&disable_animations=true&hide_border=true&theme=react&hide=ini,json,markdown,text,yaml&exclude_repo=a2c,glibc,Icecat,img-cmp,Iosevnya,Librewolf-Windows,MmaActMan,pacman,ProxifierKeygen,Saranya)
 
